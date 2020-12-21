@@ -1,5 +1,5 @@
 ## jd-scripts-docker
-docker启动京东薅羊毛工具，自动更新，支持每日签到，京东水果等任务自动操作。
+docker启动京东薅羊毛工具，自动更新，支持每日签到，京东水果等任务自动操作。2020-12-21 10:06:28
 
 ### 安装依赖
 git docker docker-compose
